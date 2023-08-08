@@ -12,7 +12,7 @@ function App() {
       <h1 className="text-center -rotate-1 font-bold italic text-red-500 text-bold text-6xl animate-pulse">
         MOZZIUSES 100% LEGIC TSHIRST STORE
       </h1>
-      <div className="w-full flex">
+      <div className="w-full flex flex-col sm:flex-row">
         <div className="relative flex-1">
           <img src={model} alt="" className="w-full aspect-square" />
           <img
@@ -21,7 +21,7 @@ function App() {
             className="absolute top-1/4 left-1/4 w-1/2"
           />
         </div>
-        <div className="flex-1 relative flex sm:flex-col">
+        <div className="flex-1 relative flex flex-col">
           <div className="animate-spin bg-red-500 absolute right-0 top-0 text-white w-24 h-24 rounded-lg">
             99% off
           </div>
