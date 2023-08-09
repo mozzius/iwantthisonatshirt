@@ -29,7 +29,7 @@ function App() {
           <ul className="relative left-4 -rotate-3 font-serif list-disc">
             <li>100% pure asbestos blend</li>
             <li>stuffed through a 2008 off brand inkjet printer</li>
-            <li>hand woven by children in the third world</li>
+            <li>hand woven by an industrial sewing machine</li>
           </ul>
           <p className="mt-6 font-bold text-gray-700 rotate-[0.5deg] text-3xl">
             ONLY <span className="animate-ping text-blue-700">1</span> LEFT U
