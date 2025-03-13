@@ -37,7 +37,7 @@ function App() {
           </p>
           <a
             className="mt-10 relative font-bold text-2xl right-2 text-white animate-pulse bg-red-500 p-4 rounded-lg text-center"
-            href="https://github.com/sponsors/mozzius"
+            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           >
             BUY NOW ONLY $60
           </a>
